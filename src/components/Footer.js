@@ -5,16 +5,16 @@ import './Footer.css'
 export default () => (
   <div>
     <h2 className="taCenter">
-      Follow us{' '}
-      <a href="https://instagram.com/thrivegoldcoast/">@thrivegoldcoast</a>
+      Follow me{' '}
+      <a href="https://instagram.com/sherrihoumadi/">@sherrihoumadi</a>
     </h2>
     <br />
     <InstagramFeed count="8" />
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://thriveweb.com.au/">Thrive</a>.
+          © Copyright {new Date().getFullYear()} Built by{' '}
+          <a href="https://aminah.io">Aminah-io</a>.
         </span>
       </div>
     </footer>

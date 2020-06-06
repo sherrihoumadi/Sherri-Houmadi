@@ -1,10 +1,10 @@
 ---
 template: ContactPage
 slug: contact
-title: Contact Page
+title: Contact Me
 featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
+subtitle: I'd love to hear from you!
+address: ''
 phone: 0987 123 456
 email: example@example.com
 locations:

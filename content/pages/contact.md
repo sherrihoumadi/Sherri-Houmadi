@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact Me
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
+featuredImage: 'https://ucarecdn.com/41f64507-1321-4a3e-9f7d-b49ed4be97e9/'
 subtitle: I'd love to hear from you!
 address: ''
 phone: 0987 123 456

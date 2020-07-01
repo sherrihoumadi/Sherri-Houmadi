@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Sherri Houmadi
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/f979a8b6-a1e2-4d80-874b-8e53342c53eb/'
 subtitle: 'Writing about lifestyle, music, and data science.'
 meta:
   description: This is a meta description.
